@@ -1,0 +1,17 @@
+body {
+    background-image: url(image3.png);
+    background-position: center center;
+  }
+  
+  a {
+    position:fixed;
+  }
+  
+  .link-left {
+    left: 1650px; 
+  }
+  
+  .link-right {
+    right: 1250px; 
+  }
+  
